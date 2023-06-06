@@ -1,0 +1,35 @@
+.boxx {
+  background-color: #f8fafc;
+  border-style: solid;
+  border-width: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.inner {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  color: #475569;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.image {
+  margin-top: 10px;
+  height: 30px;
+  width: 50px;
+}
+
+.delete {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-top: 16px;
+  border-width: 0px;
+}
+.button {
+  margin-left: 40px;
+}
